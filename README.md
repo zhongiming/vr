@@ -12,7 +12,7 @@
 
     <body>
         <a-scene>
-            <a-sky src="https://raw.githubusercontent.com/zhongiming/vr/master/60509cec524977ae1ffc26c8f3f720e.jpg" rotation="0 -130 0"></a-sky>
+            <a-sky src="https://github.com/zhongiming/vr/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200912081856.png" rotation="0 -130 0"></a-sky>
 
             <a-text font="kelsonsans" value="Puy de Sancy, France" width="6" position="-2.5 0.25 -1.5" rotation="0 15 0"></a-text>
         </a-scene>
